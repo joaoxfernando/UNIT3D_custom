@@ -233,6 +233,27 @@ const variants = [
     teal: "#94e2d5",
     pink: "#f5c2e7",
   },
+  {
+    name: 'macchiato',
+    title: 'Capyppuccin (macchiato) - variant palette',
+    desc: 'Capyppuccin Macchiato: purple accent',
+    mode: 'dark',
+    hue: 70,
+    chroma: 0.012,
+    baseL: 0.28,
+    soft: '#f4dbd6',
+    light: '#f0c6c6',
+    accent: '#ee99a0',
+    strong: '#eed49f',
+    peach: '#f5a97f',
+    rosewater: '#b7bdf8',
+    green: '#a6da95',
+    red: '#ed8796',
+    blue: '#8aadf4',
+    mauve: '#c6a0f6',
+    teal: '#cad3f5',
+    pink: '#f5bde6'
+  }
 ];
 
 // ── builders ─────────────────────────────────────────────────────────────
